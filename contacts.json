@@ -2,39 +2,36 @@
         {
             "fname": "Spongebob",
             "lname": "Squarepants",
-            "email": "frycook001@krustykrab.com",
+            "email": "frycook001@krustykrab.sea",
             "phone": "(152) 555-5321",
             "picture": "https://upload.wikimedia.org/wikipedia/en/5/5c/Spongebob-squarepants.png"
         },
         {
-            "fname": "Lucas",
-            "lname": "Derraugh",
-            "email": "lucas@cuappdev.org",
+            "fname": "Squidward",
+            "lname": "Tentacles",
+            "email": ["cashier001@krustykrab.sea", "musicianoTentacles@clarinetworld.org"],
             "phone": "(134) 555-1134",
-            "picture": "https://scontent-ord1-1.xx.fbcdn.net/hphotos-xat1/t31.0-8/11312992_10203970601057656_29618109749126017_o.jpg"
+            "picture": "https://pbs.twimg.com/profile_images/2606825183/image.jpg"
         },
         {
-            "fname": "Feifan",
-            "lname": "Zhou",
-            "email": "feifan@tunetap.com",
+            "fname": "Sandy",
+            "lname": "Cheeks",
+            "email": "sc879@intel.org",
             "phone": "(123) 456-5432",
-            "picture": "https://scontent-b-lga.xx.fbcdn.net/hphotos-xap1/t31.0-8/10387050_665555910165227_2032361056304072307_o.jpg"
+            "picture": "https://pbs.twimg.com/profile_images/2242362361/image.jpg"
         },
         {
-            "fname": "Steven",
-            "lname": "Yeh",
-            "email": [
-                "steven@yeh.com",
-                "vp@ops.com",
-            ],
+            "fname": "Eugene",
+            "lname": "Krabs",
+            "email": "owner@krustykrab.sea",
             "phone": "(152) 555-5321",
-            "picture": "https://scontent-ord1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12144871_10206841309864569_3324705432898427151_n.jpg?oh=3e85db19e29c77041d6312466a8d9aeb&oe=56C00AFC"
+            "picture": "http://vignette3.wikia.nocookie.net/villains/images/3/31/Mr._Krabs.jpg/revision/latest?cb=20131119163828"
         },
         {
-            "fname": "Walker",
-            "lname": "White",
-            "email": "walker@white.com",
+            "fname": "Gary",
+            "lname": "The Snail",
+            "email": "gairgair@snails.com",
             "phone": "(098) 765-4321",
-            "picture": "http://vignette1.wikia.nocookie.net/gameofthrones/images/0/0c/White_Walkers.png"
+            "picture": "http://img04.deviantart.net/b281/i/2013/112/2/a/gary_the_snail_by_senkan-d62o3ft.png"
         }
     ]
