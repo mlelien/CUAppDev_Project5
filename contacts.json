@@ -1,13 +1,10 @@
 [
         {
-            "fname": "Eric",
-            "lname": "Appel",
-            "email": [
-                "eric@gmail.com",
-                "info@cuappdev.org",
-            ],
+            "fname": "Spongebob",
+            "lname": "Squarepants",
+            "email": "frycook001@krustykrab.com",
             "phone": "(152) 555-5321",
-            "picture": "https://scontent-a-lga.xx.fbcdn.net/hphotos-xpa1/t31.0-8/1559294_10205035377430945_1129733074208269684_o.jpg"
+            "picture": "https://upload.wikimedia.org/wikipedia/en/5/5c/Spongebob-squarepants.png"
         },
         {
             "fname": "Lucas",
